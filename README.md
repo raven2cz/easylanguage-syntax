@@ -2,7 +2,7 @@
 
 ## Grammar Processing and Syntax Highlighting
 
-Primary syntax highlight for [**Easylanguage**](en.wikipedia.org/wiki/EasyLanguage). Default for files with file-extension `*.eld`. Or press `ctrl+shift+l` and select easylanguage.
+Primary syntax highlight for [**Easylanguage**](https://en.wikipedia.org/wiki/EasyLanguage). Default for files with file-extension `*.eld`. Or press `ctrl+shift+l` and select easylanguage.
 
 Grammer Language Processing is separate project, because the source highlighting can be different by selected atom colorscheme.
 
