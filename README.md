@@ -10,4 +10,4 @@ Install a grammar atom package [`raven2cz/atom-language-easylanguage`](https://g
 
 **See example of highlighting possibilities**
 
-<img src="images/atom-language-easylanguage-syntax-grammar-example.png" alt="syntax" width="50%"/>
+<img src="https://github.com/raven2cz/easylanguage-syntax/blob/master/images/atom-language-easylanguage-syntax-grammar-example.png" alt="syntax" width="50%"/>
