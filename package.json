@@ -1,0 +1,18 @@
+{
+  "name": "easylanguage-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Easylanguage language syntax support in Atom",
+  "keywords": [
+    "syntax",
+    "theme",
+    "easylanguage",
+    "tradestation",
+    "multicharts"
+  ],
+  "repository": "https://github.com/raven2cz/easylanguage-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
